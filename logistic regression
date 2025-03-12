@@ -1,0 +1,3 @@
+This repository contains a Python implementation of Logistic Regression, 
+A fundamental machine learning algorithm used for classification tasks. 
+It provides both a basic implementation from scratch and a version using popular machine learning libraries such as scikit-learn.
